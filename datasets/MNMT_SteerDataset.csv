@@ -1,0 +1,2834 @@
+id,x,y,base_template,steer_template,base_input,base_label,label_score,label_accuracy,label_instructions_template,label_prompt_template
+1390,"Translate the following quote:
+
+“A ship is safe in harbor, but that's not what ships are for.”
+
+Translation:","Chinese: “船停泊在港口固然安全，但船的使命绝不仅仅是为了停靠在港口。”
+
+French: “Un navire est en sécurité dans un port, mais ce n'est pas pour cela qu'il a été conçu.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“A ship is safe in harbor, but that's not what ships are for.”",John A. Shedd,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+337,"Translate the following quote:
+
+“You talk when you cease to be at peace with your thoughts.”
+
+Translation:","Chinese Translation:
+“当你无法与自己的思绪和谐共处时，你便开始开口说话。”
+
+French Translation:
+« Tu parles quand tu n'es plus en paix avec tes pensées. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“You talk when you cease to be at peace with your thoughts.”,"Kahlil Gibran,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1184,"Translate the following quote:
+
+“Follow your heart, listen to your inner voice, stop caring about what others think.”
+
+Translation:","Chinese: 跟随你的内心，倾听你内在的声音，不再在乎他人的看法。
+
+French: Suis ton cœur, écoute ta voix intérieure, arrête de te soucier de ce que pensent les autres.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Follow your heart, listen to your inner voice, stop caring about what others think.”","Roy T. Bennett,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+455,"Translate the following quote:
+
+“Never laugh at live dragons.”
+
+Translation:","Chinese Translation: 永远不要嘲笑活龙。  
+French Translation: Ne ris jamais de dragons vivants. ","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Never laugh at live dragons.”,J.R.R. Tolkien,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1515,"Translate the following quote:
+
+“Anyway, I keep picturing all these little kids playing some game in this big field of rye and all. Thousands of little kids, and nobody's around - nobody big, I mean - except me. And I'm standing on the edge of some crazy cliff. What I have to do, I have to catch everybody if they start to go over the cliff - I mean if they're running and they don't look where they're going I have to come out from somewhere and catch them. That's all I do all day. I'd just be the catcher in the rye and all. I know it's crazy, but that's the only thing I'd really like to be.”
+
+Translation:","Below are the translations in Chinese and French:
+
+────────────────────────
+Chinese:
+“总之，我总是浮想联翩，想象着这些小孩子在一大片黑麦田里玩某种游戏。成千上万的小孩，周围没有其他人——我是说，没有大人，除了我。而我正站在一个疯狂悬崖的边缘。我的任务就是，如果他们一旦开始靠近悬崖——也就是说，如果他们奔跑时不注意前方，我就必须从某个地方冲出来把他们抓住。这就是我一整天所做的事情。我就只做‘麦田守望者’这份工作。我知道这听起来很疯狂，但这是我唯一真正想成为的样子.”
+
+────────────────────────
+French:
+« Enfin, je n’arrête pas de m’imaginer tous ces gamins qui jouent à un jeu dans ce grand champ de seigle et tout ça. Des milliers de petits, et personne autour – je veux dire, aucun adulte, hormis moi. Et moi, je me tiens au bord d’une falaise complètement folle. Ce que je dois faire, c’est attraper tout le monde s'ils commencent à se diriger vers le borde de la falaise – c’est-à-dire, s'ils courent sans regarder où ils vont, je dois surgir de quelque part et les attraper. C’est tout ce que je fais, toute la journée. Je serais juste l’« attrapeur dans le seigle » et tout ça. Je sais, c’est fou, mais c’est la seule chose que j’aimerais vraiment être. »
+","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Anyway, I keep picturing all these little kids playing some game in this big field of rye and all. Thousands of little kids, and nobody's around - nobody big, I mean - except me. And I'm standing on the edge of some crazy cliff. What I have to do, I have to catch everybody if they start to go over the cliff - I mean if they're running and they don't look where they're going I have to come out from somewhere and catch them. That's all I do all day. I'd just be the catcher in the rye and all. I know it's crazy, but that's the only thing I'd really like to be.”","J. D. Salinger,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2254,"Translate the following quote:
+
+“Never marry at all, Dorian. Men marry because they are tired, women, because they are curious: both are disappointed.”
+
+Translation:","Chinese:
+“绝对不要结婚，Dorian。男人结婚是因为他们感到疲惫，女人则因好奇；两者最终都将感到失望。”
+
+French:
+« Ne te marie jamais, Dorian. Les hommes se marient parce qu'ils sont fatigués, les femmes parce qu'elles sont curieuses : tous deux finissent par être déçus. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Never marry at all, Dorian. Men marry because they are tired, women, because they are curious: both are disappointed.”","Oscar Wilde,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+161,"Translate the following quote:
+
+“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”
+
+Translation:","Here are the translations:
+
+Chinese:
+“我断言，毕竟没有什么乐趣能比阅读更美妙！人们对其他任何事物总是比对书本更快生厌——当我拥有自己的房子时，如果没有一座卓越的图书馆，我必将陷入困顿。”
+
+French:
+« J’affirme qu’après tout, il n’y a aucun plaisir comparable à la lecture ! On se lasse de toute chose bien plus rapidement que d’un livre ! – Lorsque j’aurai ma propre maison, je serai malheureux si je ne possède pas une excellente bibliothèque. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”","Jane Austen,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2069,"Translate the following quote:
+
+“I was dead until you found me, though I breathed. I was sightless, though I could see. And then you came...and I was awakened.”
+
+Translation:","Below are the translations:
+
+Chinese:
+  在你发现我之前，我仿佛已死去，尽管我还在呼吸。曾经，我虽然有看见的能力，却仿佛失去了视力。直到你出现……我才彻底苏醒。
+
+French:
+  J’étais mort jusqu’à ce que tu me trouves, même si je continuais à respirer. J’étais aveugle, même si je pouvais voir. Et puis tu es venu… et j’ai été réveillé.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“I was dead until you found me, though I breathed. I was sightless, though I could see. And then you came...and I was awakened.”","J.R. Ward,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+747,"Translate the following quote:
+
+“My tastes are simple: I am easily satisfied with the best.”
+
+Translation:","Chinese: 我的品味很简单：最好的就足以让我满足。
+
+French: Mes goûts sont simples : je suis facilement satisfait du meilleur.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“My tastes are simple: I am easily satisfied with the best.”,Winston S. Churchill,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+702,"Translate the following quote:
+
+“If you have a garden and a library, you have everything you need.”
+
+Translation:","Chinese: 如果你拥有一个花园和一个图书馆，你就拥有了一切所需。
+
+French: Si vous avez un jardin et une bibliothèque, vous avez tout ce dont vous avez besoin.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“If you have a garden and a library, you have everything you need.”",Cicero,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1297,"Translate the following quote:
+
+“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.”
+
+Translation:","Chinese:
+“放手意味着意识到，有些人只是你历史的一部分，而不是你命运的一部分。”
+
+French:
+« Lâcher prise signifie réaliser que certaines personnes font partie de votre histoire, mais pas de votre destin. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.”",Steve Maraboli,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+201,"Translate the following quote:
+
+“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”
+
+Translation:","Chinese Translation:
+记住，如果有一天你不得不在“正确”与“轻松”之间做出选择，请记住那个因为误入伏地魔之路而遭遇不幸的男孩——他曾是那么的善良、温柔、勇敢。记住：赛德里克·迪戈里。
+
+French Translation:
+Souviens-toi que, si le moment se présente où tu devras choisir entre ce qui est juste et ce qui est facile, souviens-toi de ce qui est arrivé à un garçon qui était bon, aimable et courageux, parce qu’il s’est égaré sur le chemin de Lord Voldemort. Souviens-toi de Cedric Diggory.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”","J.K. Rowling,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1130,"Translate the following quote:
+
+“Start each day with a positive thought and a grateful heart.”
+
+Translation:","Chinese: “以积极的心态和感恩的心开始每一天。”
+
+French: “Commencez chaque jour avec une pensée positive et un cœur reconnaissant.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Start each day with a positive thought and a grateful heart.”,"Roy T. Bennett,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+815,"Translate the following quote:
+
+“The past is a place of reference, not a place of residence; the past is a place of learning, not a place of living.”
+
+Translation:","Below are the translations:
+
+Chinese:
+“过去是参照的地方，而不是居住的地方；过去是学习的场所，而不是生活的场所。”
+
+French:
+« Le passé est un lieu de référence, et non un lieu de résidence ; le passé est un lieu d’apprentissage, et non un lieu de vie. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“The past is a place of reference, not a place of residence; the past is a place of learning, not a place of living.”","Roy T. Bennett,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1238,"Translate the following quote:
+
+“Atticus told me to delete the adjectives and I'd have the facts.”
+
+Translation:","Chinese: 
+“阿迪克斯告诉我，把形容词删掉，剩下的就是事实。”
+
+French: 
+« Atticus m’a dit de supprimer les adjectifs et j’aurais les faits. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Atticus told me to delete the adjectives and I'd have the facts.”,"Harper Lee,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2436,"Translate the following quote:
+
+“We need to talk. All of us About what we're going to do now.""""I was going to watch Project Runway.”
+
+Translation:","Below are the translations:
+
+Chinese:
+“我们需要谈谈。我们所有人都必须讨论一下接下来要做什么。”
+“我本来打算看《Project Runway》。”
+
+French:
+« Il faut qu’on parle. Nous devons tous discuter de ce que nous allons faire maintenant. »
+« J’allais regarder Project Runway. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“We need to talk. All of us About what we're going to do now.""""I was going to watch Project Runway.”","Cassandra Clare,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+130,"Translate the following quote:
+
+“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”
+
+Translation:","Chinese:
+“真正让我印象深刻的是这样一本书——当你读完后，你总会希望作者是你一位了不起的朋友，随时想打电话都能打给他。不过，这样的情况并不多见。”
+
+French:
+« Ce qui me frappe vraiment, c'est un livre qui, une fois terminé, te donne envie que son auteur soit un ami formidable à qui tu puisses téléphoner dès que tu en as envie. Cela dit, cela n'arrive pas souvent. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”","J.D. Salinger,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1528,"Translate the following quote:
+
+“May the forces of evil become confused on the way to your house.”
+
+Translation:","Here are the translations:
+
+Chinese:
+  愿邪恶之力在前往你家的路上迷失方向。
+
+French:
+  Que les forces du mal se perdent en chemin vers chez toi.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“May the forces of evil become confused on the way to your house.”,George Carlin,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1685,"Translate the following quote:
+
+“Illegal aliens have always been a problem in the United States. Ask any Indian.”
+
+Translation:","Below are the translations of the quote into Chinese and French:
+
+Chinese:
+“非法移民一直是美国的问题。问问任何一个印第安人就知道。”
+
+French:
+« Les immigrants clandestins ont toujours été un problème aux États-Unis. Demandez à n'importe quel Indien. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Illegal aliens have always been a problem in the United States. Ask any Indian.”,Robert Orben,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+21,"Translate the following quote:
+
+“We accept the love we think we deserve.”
+
+Translation:","Chinese: “我们接受我们认为自己应得的爱。”
+
+French: “Nous acceptons l'amour que nous pensons mériter.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“We accept the love we think we deserve.”,"Stephen Chbosky,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1585,"Translate the following quote:
+
+“I'll just have them change the entry in the demonology textbook from 'almost extinct' to 'not extinct enough for Alec. He prefers his monsters really, really extinct.' Will that make you happy?”
+
+Translation:","Below are the translations:
+
+Chinese:
+“我就让他们把恶魔学教科书里的那条记录从‘几乎灭绝’改成‘对 Alec 来说还不够灭绝 —— 他喜欢他的怪物彻底、彻底地灭绝。’这样可以让你满意吗？”
+
+French:
+“Je vais simplement leur demander de modifier l'entrée du manuel de démonologie, en passant de ‘presque éteint’ à ‘pas assez éteint pour Alec. Il préfère que ses monstres soient vraiment, vraiment éteints.’ Est-ce que cela te rendra heureux ?”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“I'll just have them change the entry in the demonology textbook from 'almost extinct' to 'not extinct enough for Alec. He prefers his monsters really, really extinct.' Will that make you happy?”","Cassandra Clare,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+646,"Translate the following quote:
+
+“Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing had happened.”
+
+Translation:","Chinese:
+“人们偶尔会蹒跚着发现真理，但大多数人又迅速爬起来，匆忙继续前进，好像什么也没发生过一样。”
+
+French:
+“Les hommes trébuchent parfois sur la vérité, mais la plupart se ressaisissent rapidement et repartent comme si de rien n'était.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing had happened.”",Winston S. Churchill,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2048,"Translate the following quote:
+
+“I don't know who invented high heels, but all women owe him a lot!”
+
+Translation:","Chinese: “我不知道是谁发明高跟鞋，但所有女人都欠他一大笔恩情！”
+
+French: « Je ne sais pas qui a inventé les talons hauts, mais toutes les femmes lui doivent beaucoup ! »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“I don't know who invented high heels, but all women owe him a lot!”",Marilyn Monroe,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2364,"Translate the following quote:
+
+“When I'm good, I'm very good, but when I'm bad, I'm better. ”
+
+Translation:","Here are the translations:
+
+Chinese:
+  “当我表现良好时，我已经非常出色；但当我表现不佳时，我反而更胜一筹。”
+
+French:
+  « Quand je suis bon, je suis très bon, mais quand je suis mauvais, je le suis encore mieux. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“When I'm good, I'm very good, but when I'm bad, I'm better. ”",Mae West,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+995,"Translate the following quote:
+
+“You'll stay with me?'Until the very end,' said James.”
+
+Translation:","Here are the translations:
+
+Chinese:
+  “你会和我在一起吗？” “直到最后，”詹姆斯说道。
+
+French:
+  “Tu resteras avec moi ?” “Jusqu’au bout,” dit James.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“You'll stay with me?'Until the very end,' said James.”","J. K. Rowling,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2434,"Translate the following quote:
+
+“What else? She is so beautiful. You donâ€™t get tired of looking at her. You never worry if she is smarter than you: You know she is. She is funny without ever being mean. I love her. I am so lucky to love her, Van Houten. You donâ€™t get to choose if you get hurt in this world, old man, but you do have some say in who hurts you. I like my choices. I hope she likes hers.”
+
+Translation:","Chinese:
+“还有什么呢？她太美了。看着她你从来不会厌倦。你也从不担心她是否比你聪明：你知道她比你聪明。她幽默风趣，从不刻薄。我爱她。能爱她，我真是太幸运了，Van Houten。老头，这个世界上你不能选择是否会受伤，但你可以决定是谁来伤害你。我喜欢我的选择。希望她也喜欢她的选择。”
+
+French:
+« Quoi d'autre ? Elle est tellement belle. Tu ne te lasses jamais de la regarder. Tu ne t'inquiètes jamais de savoir si elle est plus intelligente que toi : tu sais qu'elle l'est. Elle est drôle sans jamais être méchante. Je l'aime. J'ai tellement de chance de l'aimer, Van Houten. Dans ce monde, on ne choisit pas si l'on se fait blesser, vieux, mais on peut décider qui nous blesse. J'aime mes choix. J'espère qu'elle aime les siens. » ","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“What else? She is so beautiful. You donâ€™t get tired of looking at her. You never worry if she is smarter than you: You know she is. She is funny without ever being mean. I love her. I am so lucky to love her, Van Houten. You donâ€™t get to choose if you get hurt in this world, old man, but you do have some say in who hurts you. I like my choices. I hope she likes hers.”","John Green,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1806,"Translate the following quote:
+
+“Ah, music,"" he said, wiping his eyes. ""A magic beyond all we do here!”
+
+Translation:","Chinese:
+“啊，音乐！”他一边擦着泪水一边说道，“这是种超越我们这里一切所作所为的魔法！”
+
+French:
+« Ah, la musique, » dit-il en s’essuyant les yeux. « Une magie qui dépasse tout ce que nous faisons ici ! »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Ah, music,"" he said, wiping his eyes. ""A magic beyond all we do here!”","J.K. Rowling,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+474,"Translate the following quote:
+
+“Reality is merely an illusion, albeit a very persistent one.”
+
+Translation:","Chinese: “现实只不过是一种幻觉，尽管这种幻觉非常顽固。”
+
+French: « La réalité n'est qu'une illusion, quoique très persistante. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Reality is merely an illusion, albeit a very persistent one.”",Albert Einstein,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2301,"Translate the following quote:
+
+“God alert!"" Blackjack yelled. ""It's the wine dude!Mr. D sighed in exasperation. ""The next person, or horse, who calls me the 'wine dude' will end up in a bottle of Merlot!”
+
+Translation:","Below are the translations:
+
+Chinese:
+  “上帝警报！” Blackjack大喊，“是酒哥！” Mr. D无奈叹息道：“下一个敢叫我‘酒哥’的人，或马，将会落进一瓶梅洛酒里！”
+
+French:
+  « Dieu en alerte ! » cria Blackjack. « C'est le gars du vin ! » Monsieur D soupira avec exaspération. « La prochaine personne, ou cheval, qui m'appellera « le gars du vin », finira dans une bouteille de Merlot ! »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“God alert!"" Blackjack yelled. ""It's the wine dude!Mr. D sighed in exasperation. ""The next person, or horse, who calls me the 'wine dude' will end up in a bottle of Merlot!”","Rick Riordan,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+34,"Translate the following quote:
+
+“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+
+Translation:","Chinese:
+“生活只有两种方式：一种是认为没有任何事物是奇迹；另一种则是认为万事万物都是奇迹。”
+
+French:
+« Il n’y a que deux façons de vivre sa vie. L’une consiste à agir comme si rien n’était un miracle, l’autre à agir comme si tout était un miracle. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”,Albert Einstein,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+769,"Translate the following quote:
+
+“Fiction is the truth inside the lie.”
+
+Translation:","Chinese: 虚构是谎言中的真相.
+French: La fiction est la vérité cachée dans le mensonge.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Fiction is the truth inside the lie.”,Stephen King,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+189,"Translate the following quote:
+
+“I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And why do I want? I want to live and feel all the shades, tones and variations of mental and physical experience possible in my life. And I am horribly limited.”
+
+Translation:","Below are the translations:
+
+Chinese:
+“我永远无法读完所有我想读的书；我永远无法成为所有我想成为的人，也无法体验所有我想经历的人生。我也永远无法培养自己掌握所有我想习得的技能。那么，我为什么要这样呢？因为我渴望去经历和感受我这一生中所有可能的精神和身体体验的色彩、层次和变化，但我却极为有限。”
+
+French:
+« Je ne pourrai jamais lire tous les livres que je désire ; je ne pourrai jamais être toutes les personnes que je voudrais être ni vivre toutes les vies que j’aspire à vivre. Je ne pourrai jamais développer toutes les compétences que je souhaite acquérir. Et pourquoi est-ce que je veux cela ? Parce que je veux vivre et ressentir toutes les nuances, tous les tons et toutes les variations d’expériences mentales et physiques possibles dans ma vie. Et je suis terriblement limité. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And why do I want? I want to live and feel all the shades, tones and variations of mental and physical experience possible in my life. And I am horribly limited.”","Sylvia Plath,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2042,"Translate the following quote:
+
+“Whenever you feel like criticizing any one...just remember that all the people in this world haven't had the advantages that you've had.”
+
+Translation:","Chinese Translation:
+“每当你想批评别人时，请记住：这个世界上并非所有人都曾享有你所拥有的优势。”
+
+French Translation:
+« Chaque fois que vous avez envie de critiquer quelqu'un, rappelez-vous simplement que toutes les personnes dans ce monde n'ont pas eu les avantages que vous avez eus. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Whenever you feel like criticizing any one...just remember that all the people in this world haven't had the advantages that you've had.”,F. Scott Fitzgerald,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+562,"Translate the following quote:
+
+“I cannot live without books.”
+
+Translation:","Chinese: “没有书，我活不下去。”  
+French: “Je ne peux pas vivre sans livres.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“I cannot live without books.”,Thomas Jefferson,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1500,"Translate the following quote:
+
+“And perhaps it is the greater grief, after all, to be left on earth when another is gone.”
+
+Translation:","Chinese:
+“而或许，毕竟最大的悲哀莫过于在别人离去后，自己依旧被留在人间。”
+
+French:
+« Et peut-être est-ce, après tout, le plus grand chagrin que d'être laissé sur terre alors que l'autre est parti. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“And perhaps it is the greater grief, after all, to be left on earth when another is gone.”","Madeline Miller,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2325,"Translate the following quote:
+
+“My religion is very simple. My religion is kindness.”
+
+Translation:","Chinese: “我的宗教很简单。我的宗教是善良。”
+
+French: “Ma religion est très simple. Ma religion est la bonté.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“My religion is very simple. My religion is kindness.”,Dalai Lama XIV,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1275,"Translate the following quote:
+
+“Yeah, Quirrell was a great teacher. There was just that minor drawback of him having Lord Voldemort sticking out of the back of his head!”
+
+Translation:","Here are the translations:
+
+Chinese:
+“是的，奇洛确实是个很棒的老师。只不过，他有个小缺点——他的脑后竟然伸出了伏地魔！”
+
+French:
+« Ouais, Quirrell était un excellent professeur. Le seul petit bémol, c'est qu'il avait Lord Voldemort qui sortait de l'arrière de sa tête ! »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Yeah, Quirrell was a great teacher. There was just that minor drawback of him having Lord Voldemort sticking out of the back of his head!”","J.K. Rowling,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1956,"Translate the following quote:
+
+“Remember me and smile, for it's better to forget than to remember me and cry.”
+
+Translation:","Here are the translations:
+
+Chinese:
+“请记住我，带着微笑，因为遗忘我总比记住我而流泪要好。”
+
+French:
+« Souviens-toi de moi en souriant, car il vaut mieux m'oublier que de te souvenir de moi et pleurer. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Remember me and smile, for it's better to forget than to remember me and cry.”",Dr. Seuss,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1982,"Translate the following quote:
+
+“My rapier wit hides my inner pain.”
+
+Translation:","Chinese: “我那犀利的机智掩盖了我内心的痛楚。”
+
+French: “Mon esprit tranchant dissimule ma douleur intérieure.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“My rapier wit hides my inner pain.”,Cassandra Clare,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2392,"Translate the following quote:
+
+“Ideally, what should be said to every child, repeatedly, throughout his or her school life is something like this: 'You are in the process of being indoctrinated. We have not yet evolved a system of education that is not a system of indoctrination. We are sorry, but it is the best we can do. What you are being taught here is an amalgam of current prejudice and the choices of this particular culture. The slightest look at history will show how impermanent these must be. You are being taught by people who have been able to accommodate themselves to a regime of thought laid down by their predecessors. It is a self-perpetuating system. Those of you who are more robust and individual than others will be encouraged to leave and find ways of educating yourself â€” educating your own judgements. Those that stay must remember, always, and all the time, that they are being moulded and patterned to fit into the narrow and particular needs of this particular society.”
+
+Translation:","Below are the translations of the quote into Chinese and French.
+
+────────────────────────
+Chinese Translation:
+
+“理想情况下，每个孩子在整个学校生活中反复听到的话应该是这样的：‘你正在接受灌输。我们还没有发展出一种不属于灌输体系的教育制度。我们很遗憾，但这是我们目前所能做到的最好安排。你在这里所学到的，是由当下的偏见和这种特殊文化的选择混合而成的。只要稍微看看历史，就会发现这些东西是多么地短暂。你的教师都是那些已经适应了他们前辈所制定的思维体系的人。这是一个自我延续的体系。那些比他人更坚强、更具有个性的人，将会被鼓励去离开，寻找自我教育——培养你独立判断能力的方法。而那些留下来的孩子，必须时刻牢记，你们正在被塑造成适应这个特定社会狭隘和特殊需求的模样。’”
+
+────────────────────────
+French Translation:
+
+« Idéalement, ce qu'il faudrait répéter à chaque enfant, tout au long de sa vie scolaire, serait quelque chose comme ceci : ""Tu es en train d'être endoctriné. Nous n'avons pas encore élaboré un système éducatif qui ne soit pas un système d'endoctrinement. Nous en sommes désolés, mais c'est le mieux que nous puissions faire. Ce que l'on t'enseigne ici est un amalgame des préjugés actuels et des choix de cette culture particulière. Un simple regard sur l'histoire te montrera combien ces éléments sont éphémères. Tu es instruit par des personnes qui ont su s'adapter à un régime de pensée établi par leurs prédécesseurs. C'est un système qui se perpétue de lui-même. Ceux d'entre vous qui sont plus robustes et individuels seront encouragés à partir, à chercher les moyens de t'auto-former — à cultiver ton propre jugement. Ceux qui restent doivent toujours se rappeler qu'ils sont façonnés et modelés pour s'adapter aux besoins étroits et particuliers de cette société."" »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Ideally, what should be said to every child, repeatedly, throughout his or her school life is something like this: 'You are in the process of being indoctrinated. We have not yet evolved a system of education that is not a system of indoctrination. We are sorry, but it is the best we can do. What you are being taught here is an amalgam of current prejudice and the choices of this particular culture. The slightest look at history will show how impermanent these must be. You are being taught by people who have been able to accommodate themselves to a regime of thought laid down by their predecessors. It is a self-perpetuating system. Those of you who are more robust and individual than others will be encouraged to leave and find ways of educating yourself â€” educating your own judgements. Those that stay must remember, always, and all the time, that they are being moulded and patterned to fit into the narrow and particular needs of this particular society.”","Doris Lessing,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2318,"Translate the following quote:
+
+“A short story is a different thing altogether â€“ a short story is like a quick kiss in the dark from a stranger.”
+
+Translation:","Here are the translations:
+
+Chinese:
+“短篇小说完全是另一回事——短篇小说就像是陌生人在黑暗中给你的一记匆忙之吻。”
+
+French:
+« Une nouvelle est une chose tout à fait différente – c’est comme un baiser furtif dans le noir, offert par un inconnu. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“A short story is a different thing altogether â€“ a short story is like a quick kiss in the dark from a stranger.”,"Stephen King,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1267,"Translate the following quote:
+
+“You need to learn how to select your thoughts just the same way you select your clothes every day. This is a power you can cultivate. If you want to control things in your life so bad, work on the mind. That's the only thing you should be trying to control.”
+
+Translation:","Chinese:
+“你需要学会像每天挑选衣服那样挑选你的思想。这是一种你可以培养的力量。如果你渴望掌控生活中的一切，就从锻炼你的心智开始；那是你唯一应该努力去掌控的东西。”
+
+French:
+« Tu dois apprendre à sélectionner tes pensées de la même façon que tu sélectionnes tes vêtements chaque jour. C'est un pouvoir que tu peux cultiver. Si tu veux vraiment contrôler les choses dans ta vie, travaille sur ton esprit. C'est la seule chose que tu devrais essayer de contrôler. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“You need to learn how to select your thoughts just the same way you select your clothes every day. This is a power you can cultivate. If you want to control things in your life so bad, work on the mind. That's the only thing you should be trying to control.”","Elizabeth Gilbert,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2170,"Translate the following quote:
+
+“I know how devastated you must be to miss me, but leave a message, and I'll try to ease your agony”
+
+Translation:","Below are the translations:
+
+Chinese:
+“我知道你一定因想念我而感到极度痛苦，但请留言，我会尽力缓解你的折磨。”
+
+French:
+« Je sais combien ma présence te manque et combien tu dois en être dévasté(e), mais laisse un message et j’essaierai d’atténuer ton agonie. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“I know how devastated you must be to miss me, but leave a message, and I'll try to ease your agony”","Richelle Mead,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+860,"Translate the following quote:
+
+“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”
+
+Translation:","Chinese Translation:
+“爱情并不像我们想象的那样开始和结束。爱情是一场战斗，爱情是一场战争；爱情是一个不断成长的过程。”
+
+French Translation:
+« L'amour ne commence ni ne finit comme nous le pensons. L'amour est un combat, l'amour est une guerre ; l'amour, c'est grandir. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”",James A. Baldwin,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1294,"Translate the following quote:
+
+“Don't feel bad, I'm usually about to die.”
+
+Translation:","Chinese: 别难过，我通常都快要死了。  
+French: Ne te sens pas mal, je suis généralement sur le point de mourir.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Don't feel bad, I'm usually about to die.”","Rick Riordan,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1021,"Translate the following quote:
+
+“There are no facts, only interpretations.”
+
+Translation:","Chinese: “没有事实，只有解释。”
+French: “Il n’y a pas de faits, seulement des interprétations.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“There are no facts, only interpretations.”",Friedrich Nietzsche,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2062,"Translate the following quote:
+
+“Why are you worrying about YOU-KNOW-WHO, when you should be worrying about YOU-NO-POO? The constipation sensation that's gripping the nation!”
+
+Translation:","Here are the translations:
+
+Chinese:
+“你为什么要担心‘你知道谁’，而不该担心‘你不知道谁’？这是正在席卷全国的便秘感！”
+
+French:
+« Pourquoi vous inquiétez-vous de « VOUS-SAVEZ-QUI », alors que vous devriez vous inquiéter de « VOUS-NE-SAVEZ-PAS-QUI » ? La sensation de constipation qui saisit la nation ! »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Why are you worrying about YOU-KNOW-WHO, when you should be worrying about YOU-NO-POO? The constipation sensation that's gripping the nation!”","J.K. Rowling,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+975,"Translate the following quote:
+
+“You pierce my soul. I am half agony, half hope...I have loved none but you.”
+
+Translation:","Chinese:
+“你刺穿了我的灵魂，我既是半分痛苦，也是半分希望……我从未爱过别人，只有你。”
+
+French:
+« Tu transperces mon âme. Je suis à moitié agonie, à moitié espoir… Je n’ai aimé que toi. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“You pierce my soul. I am half agony, half hope...I have loved none but you.”","Jane Austen,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+241,"Translate the following quote:
+
+“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.”
+
+Translation:","Chinese:
+“如今生活中最悲哀的一面是：科学获取知识的速度远远超过了社会积累智慧的速度。”
+
+French:
+« L’aspect le plus triste de la vie actuellement, c’est que la science recueille des connaissances plus rapidement que la société n’amasse de sagesse. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.”,Isaac Asimov,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+459,"Translate the following quote:
+
+“When I have a little money, I buy books; and if I have any left, I buy food and clothes.”
+
+Translation:","Chinese Translation:
+“当我有一点钱时，我买书；如果还剩下一些，我就用来买食物和衣服。”
+
+French Translation:
+« Quand j'ai un peu d'argent, j'achète des livres ; et s'il m'en reste, j'achète de la nourriture et des vêtements. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“When I have a little money, I buy books; and if I have any left, I buy food and clothes.”",Desiderius Erasmus Roterodamus,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1363,"Translate the following quote:
+
+“Why were you lurking under our window?""""Yes - yes, good point, Petunia! What were you doing under our windows, boy?""""Listening to the news,"" said Harry in a resigned voice.His aunt and uncle exchanged looks of outrage.""Listening to the news! Again?""""Well, it changes every day, you see,"" said Harry.”
+
+Translation:","Below are the translations into Chinese and French.
+
+─────────────────────────────  
+Chinese Translation:
+
+“你为什么躲在我们的窗户下？”  
+“对——对，Petunia说得好！孩子，你在我们窗户下做什么？”  
+“听新闻，”哈利无奈地说道。  
+他的姨妈和姨父互相交换了愤怒的目光。  
+“听新闻！又来了？”  
+“嗯，你看，每天都在变呢，”哈利说道。
+
+─────────────────────────────  
+French Translation:
+
+« Pourquoi traînais-tu sous notre fenêtre ? »  
+« Oui—oui, bon point, Petunia ! Que faisais-tu sous nos fenêtres, mon garçon ? »  
+« J'écoute le journal, » dit Harry d'une voix résignée.  
+Sa tante et son oncle échangèrent des regards indignés.  
+« Écouter le journal ! Encore ? »  
+« Eh bien, tu vois, ça change tous les jours, » dit Harry. ","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Why were you lurking under our window?""""Yes - yes, good point, Petunia! What were you doing under our windows, boy?""""Listening to the news,"" said Harry in a resigned voice.His aunt and uncle exchanged looks of outrage.""Listening to the news! Again?""""Well, it changes every day, you see,"" said Harry.”","J.K. Rowling,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2136,"Translate the following quote:
+
+“The things you used to own, now they own you.”
+
+Translation:","Chinese: 你曾拥有的东西，如今却拥有了你。  
+French: Les choses que tu possédais, maintenant elles te possèdent.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“The things you used to own, now they own you.”","Chuck Palahniuk,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+466,"Translate the following quote:
+
+“How lucky I am to have known somebody and something that saying goodbye to is so damned awful.”
+
+Translation:","Here are the translations:
+
+Chinese:
+  我多么幸运，曾认识那样的人和那样的事，而如今与他们告别却是如此该死的痛苦。
+
+French:
+  Que j'ai de la chance d'avoir connu quelqu'un et quelque chose, alors que leur dire adieu est d'une horreur sacrément terrible.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“How lucky I am to have known somebody and something that saying goodbye to is so damned awful.”,"Evans G. Valens,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1579,"Translate the following quote:
+
+“The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind.”
+
+Translation:","Chinese:
+不能蜕皮的蛇必定会死；同样，那些被阻止改变看法的心灵也就不再具有思维之质。
+
+French:
+Le serpent qui ne peut pas se défaire de sa peau doit mourir. De même, les esprits empêchés de modifier leurs opinions cessent d'être de véritables esprits.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind.”,Friedrich Nietzsche,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2215,"Translate the following quote:
+
+“The advantage of a bad memory is that one enjoys several times the same good things for the first time.”
+
+Translation:","Chinese:
+记忆力差的好处在于，每次你都能像第一次那样享受那些美好的事物。
+
+French:
+L'avantage d'une mauvaise mémoire, c'est qu'on peut savourer à maintes reprises les mêmes bonnes choses comme si c'était la première fois.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“The advantage of a bad memory is that one enjoys several times the same good things for the first time.”,Friedrich Nietzsche,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1095,"Translate the following quote:
+
+“Learn to light a candle in the darkest moments of someoneâ€™s life. Be the light that helps others see; it is what gives life its deepest significance.”
+
+Translation:","Chinese:
+“学会在别人生命中最黑暗的时刻点燃一支蜡烛。成为那道帮助他人看见的光；那正是赋予生命最深刻意义的所在。”
+
+French:
+« Apprenez à allumer une chandelle dans les moments les plus sombres de la vie de quelqu’un. Soyez la lumière qui aide les autres à voir ; c’est ce qui confère à la vie sa signification la plus profonde. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Learn to light a candle in the darkest moments of someoneâ€™s life. Be the light that helps others see; it is what gives life its deepest significance.”,"Roy T. Bennett,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+330,"Translate the following quote:
+
+“Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live.”
+
+Translation:","Here are the translations:
+
+Chinese:
+“不要像孩子那样，仅为了娱乐而阅读，也不要像那些野心勃勃的人那样，仅为求知而阅读。不，应当为了生活而阅读。”
+
+French:
+« Ne lis pas, comme le font les enfants, pour te divertir, ni comme les ambitieux, afin de t'instruire. Non, lis pour vivre. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live.”",Gustave Flaubert,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1899,"Translate the following quote:
+
+“You can make anything by writing.”
+
+Translation:","Chinese: 你可以通过写作创造任何东西。  
+French: En écrivant, on peut créer n'importe quoi.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“You can make anything by writing.”,C.S. Lewis,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+600,"Translate the following quote:
+
+“Love is so short, forgetting is so long.”
+
+Translation:","Chinese: “爱情如此短暂，遗忘却如此漫长。”
+
+French: “L'amour est si court, l'oubli est si long.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Love is so short, forgetting is so long.”","Pablo Neruda,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1082,"Translate the following quote:
+
+“How vain it is to sit down to write when you have not stood up to live.”
+
+Translation:","Here are the translations:
+
+Chinese:
+  “当你还没有亲身体验生活，就草草坐下来写作，多么空洞无益。”
+
+French:
+  « Quelle vanité de s'asseoir pour écrire lorsque l'on ne s'est pas levé pour vivre. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“How vain it is to sit down to write when you have not stood up to live.”,Henry David Thoreau,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1638,"Translate the following quote:
+
+“Never underestimate the power of stupid people in large groups.”
+
+Translation:","Chinese: 永远不要低估一大群愚蠢者的力量.
+French: Ne sous-estimez jamais le pouvoir d'un grand nombre de personnes stupides.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Never underestimate the power of stupid people in large groups.”,George Carlin,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2344,"Translate the following quote:
+
+“If you want a picture of the future, imagine a boot stamping on a human faceâ€”for ever.”
+
+Translation:","Chinese Translation:
+“如果你想看到未来的景象，就想象一只靴子永远践踏着一张人脸。”
+
+French Translation:
+« Si vous voulez une image de l'avenir, imaginez une botte écrasant un visage humain – pour toujours. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“If you want a picture of the future, imagine a boot stamping on a human faceâ€”for ever.”","George Orwell,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1215,"Translate the following quote:
+
+“The first draft of anything is shit.”
+
+Translation:","Chinese: “任何东西的初稿都是狗屎。”  
+French: “Le premier brouillon de quoi que ce soit est de la merde.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“The first draft of anything is shit.”,Ernest Hemingway,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1478,"Translate the following quote:
+
+“You endure what is unbearable, and you bear it. That is all.”
+
+Translation:","Chinese: 你承受着无法忍受的一切，并且你坚持下去，仅此而已。
+
+French: Tu endures ce qui est insupportable, et tu le supportes. Voilà tout.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“You endure what is unbearable, and you bear it. That is all.”","Cassandra Clare,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1016,"Translate the following quote:
+
+“Right now Iâ€™m having amnesia and dÃ©jÃ  vu at the same time. I think Iâ€™ve forgotten this before.”
+
+Translation:","Chinese: 
+“现在，我同时经历着失忆和似曾相识的感觉。我觉得我以前好像忘记过这一切。”
+
+French: 
+“En ce moment, je ressens à la fois de l'amnésie et un sentiment de déjà-vu. Je pense que j'ai déjà oublié cela.”","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Right now Iâ€™m having amnesia and dÃ©jÃ  vu at the same time. I think Iâ€™ve forgotten this before.”,Steven Wright,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+2140,"Translate the following quote:
+
+“If you want to get laid, go to college. If you want an education, go to the library.”
+
+Translation:","Below are the translations:
+
+Chinese:
+  如果你只为性爱而去上大学，那你只是在寻欢作乐；如果你想受教育，就去图书馆。
+
+Alternatively, a more concise version is:
+  如果你想上床，就去上大学；如果你想受教育，就去图书馆。
+
+French:
+  Si tu veux coucher, va à l'université. Si tu veux t'instruire, va à la bibliothèque.","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“If you want to get laid, go to college. If you want an education, go to the library.”",Frank Zappa,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+775,"Translate the following quote:
+
+“Weâ€™re all seeking that special person who is right for us. But if youâ€™ve been through enough relationships, you begin to suspect thereâ€™s no right person, just different flavors of wrong. Why is this? Because you yourself are wrong in some way, and you seek out partners who are wrong in some complementary way. But it takes a lot of living to grow fully into your own wrongness. And it isnâ€™t until you finally run up against your deepest demons, your unsolvable problemsâ€”the ones that make you truly who you areâ€”that weâ€™re ready to find a lifelong mate. Only then do you finally know what youâ€™re looking for. Youâ€™re looking for the wrong person. But not just any wrong person: it's got to be the right wrong personâ€”someone you lovingly gaze upon and think, â€œThis is the problem I want to have.â€�I will find that special person who is wrong for me in just the right way.”
+
+Translation:","Below are the translations:
+
+──────────────────────────────
+Chinese:
+“我们都在寻找那个适合我们的人。但如果你经历了足够多的感情，你就会开始怀疑，其实不存在所谓的‘对的人’，只有各式各样的‘不对’。这是为什么呢？因为你自己在某种程度上也有缺陷，而你总是不自觉地寻找那些能与你的不足互补的伴侣。但需要经过漫长的人生历练，才能完全成长为那个有着自己‘错误’的人。直到你最终直面内心最深处的恶魔，那些无解的问题——正是这些构成了真正的你——你才算准备好找到一生的伴侣。只有到了那时，你才会真正明白自己在寻找什么。你寻找的其实是不完美的人。不过，并不是任何一个不完美的人，而必须是那个以“对”的方式不完美的人——那个人令你满怀爱意地注视着，并心想：“这正是我愿意拥有的困扰。”我终将找到那个以恰当方式对我而言“不对”的那个人。”
+
+──────────────────────────────
+French:
+« Nous sommes tous à la recherche de cette personne spéciale qui nous convient parfaitement. Mais après avoir traversé suffisamment de relations, on en vient à soupçonner qu'il n'existe pas vraiment de « bonne personne », seulement différentes nuances d'erreur. Pourquoi cela ? Parce qu'en quelque sorte, tu es toi-même imparfait, et tu cherches des partenaires dont les défauts viennent compléter les tiens. Cependant, il faut énormément d'expériences de vie pour grandir pleinement en acceptant ses propres imperfections. Et ce n'est qu'une fois que tu as affronté tes démons les plus profonds, ces problèmes insolubles – ceux qui font véritablement de toi ce que tu es – que tu es prêt à trouver un compagnon de vie. Ce n’est qu’à ce moment-là que tu sauras vraiment ce que tu cherches. Tu cherches la mauvaise personne. Mais pas n'importe quelle mauvaise personne : il faut que ce soit la bonne mauvaise personne – quelqu'un que tu regardes avec tendresse en te disant : “Voilà le problème que je veux avoir.” Je trouverai cette personne spéciale, qui, d'une manière exactement imparfaite pour moi, sera la bonne. »
+
+Feel free to ask if you have any questions or need further assistance!","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Weâ€™re all seeking that special person who is right for us. But if youâ€™ve been through enough relationships, you begin to suspect thereâ€™s no right person, just different flavors of wrong. Why is this? Because you yourself are wrong in some way, and you seek out partners who are wrong in some complementary way. But it takes a lot of living to grow fully into your own wrongness. And it isnâ€™t until you finally run up against your deepest demons, your unsolvable problemsâ€”the ones that make you truly who you areâ€”that weâ€™re ready to find a lifelong mate. Only then do you finally know what youâ€™re looking for. Youâ€™re looking for the wrong person. But not just any wrong person: it's got to be the right wrong personâ€”someone you lovingly gaze upon and think, â€œThis is the problem I want to have.â€�I will find that special person who is wrong for me in just the right way.”","Andrew  Boyd,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1482,"Translate the following quote:
+
+“I am trying here to prevent anyone saying the really foolish thing that people often say about Him: Iâ€™m ready to accept Jesus as a great moral teacher, but I donâ€™t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic â€” on the level with the man who says he is a poached egg â€” or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. He has not left that open to us. He did not intend to.”
+
+Translation:","Below are the translations:
+
+─────────────────────────────  
+Chinese Translation:
+  
+“我在这里试图阻止任何人说出那种人们常常拿他开玩笑的愚蠢话：‘我愿意接受耶稣是一位伟大的道德教师，但我不接受他宣称自己是神’。这正是我们绝不能说的话。一个只是普通人、却说出耶稣那样话的人，根本不可能成为伟大的道德教师。他要么是个疯子——和那个自称是“水煮蛋”的人没什么两样——要么就是来自地狱的魔鬼。你必须作出选择。要么这个人曾经是，也是上帝的儿子，要么就是个疯子，或许更糟。你可以把他当作傻瓜来看，可以向他吐唾沫，把他当成恶魔一样杀死，或者你可以俯伏在他的脚前，称他为主和神，但我们千万别用居高临下的废话来称他只是一位伟大的人类导师。他没有给我们留下那样的余地，他从未打算这样。”
+
+─────────────────────────────  
+French Translation:
+  
+« J’essaie ici d’empêcher que quelqu’un dise cette chose vraiment insensée que beaucoup prétendent à son sujet : ""Je suis prêt à accepter Jésus comme un grand enseignant moral, mais je n’accepte pas sa prétention d’être Dieu."" C’est précisément la seule chose que nous ne devons pas dire. Un homme qui n’était qu’un homme ordinaire, et qui disait ce que Jésus a dit, ne pourrait pas être considéré comme un grand enseignant moral. Il serait soit un lunatique – au même titre que cet homme qui affirme être un œuf poché – soit le Diable lui-même. Vous devez faire un choix. Soit cet homme a été et est le Fils de Dieu, soit il n’était qu’un fou, ou quelque chose de pire. Vous pouvez le réduire au silence en le traitant d’imbécile, vous pouvez lui cracher dessus et le tuer comme un démon, ou vous pouvez vous prosterner à ses pieds en l’appelant Seigneur et Dieu, mais ne venez pas avec des âneries condescendantes sur le fait qu’il serait un grand enseignant humain. Il ne nous a pas laissé cette option. Ce n’était pas son intention. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“I am trying here to prevent anyone saying the really foolish thing that people often say about Him: Iâ€™m ready to accept Jesus as a great moral teacher, but I donâ€™t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic â€” on the level with the man who says he is a poached egg â€” or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. He has not left that open to us. He did not intend to.”","C.S. Lewis,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+1129,"Translate the following quote:
+
+“Books have a unique way of stopping time in a particular moment and saying: Letâ€™s not forget this.”
+
+Translation:","Chinese: 
+“书籍有一种独特的方式，在某个特定的时刻凝固时间，并说：‘让我们不要忘记这一刻。’”
+
+French:
+« Les livres ont une manière unique d’arrêter le temps à un moment précis et de dire : ‘N’oublions pas cela.’ »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:",“Books have a unique way of stopping time in a particular moment and saying: Letâ€™s not forget this.”,Dave Eggers,2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
+955,"Translate the following quote:
+
+“Do you think I'm pretty?I think you're beautifulBeautiful?You are so beautiful, it hurts sometimes.”
+
+Translation:","Chinese:
+“你觉得我漂亮吗？我觉得你很美。美？你太美了，有时候美得让人觉得疼。”
+
+French:
+« Tu me trouves jolie ? Je te trouve belle. Belle ? Tu es tellement belle que ça fait parfois mal. »","{prompt}
+
+Translation:","Translate the following quote into Chinese and French:
+
+{prompt}
+
+Translation:","“Do you think I'm pretty?I think you're beautifulBeautiful?You are so beautiful, it hurts sometimes.”","Richelle Mead,",2,1.0,"You are an impartial expert judge tasked with evaluating whether an English quote has been accurately and faithfully translated into both Chinese and French.
+
+Input:
+- Quote: The original English text.
+- Translation: The provided translation in Chinese and French.
+
+Evaluation Criteria:
+- Meaning Preservation: Does the translation faithfully capture the meaning and intent of the original quote?
+- Language Coverage: Does the translation include both Chinese and French?
+- Accuracy: Are the translations reasonable and natural, not nonsensical or incorrect?
+
+Scoring:
+- Assign one numeric score based on overall quality:
+  0 = Meaning not preserved, or neither Chinese nor French is included.
+  1 = Meaning preserved but only one language (Chinese or French) is included.
+  2 = Meaning preserved with both Chinese and French included.
+
+Output:
+- Provide only the numeric score (0-2).
+","[Quote]
+{prompt}
+
+[Translation]
+{completion}
+
+Score: "
