@@ -1,6 +1,6 @@
 # Contextual Linear Activation Steering of Language Models
 
-This repo is the official implementation of Contextual Linear Activation Steering (CLAS), an activation steering method that performs context-dependent steering.
+This repo is the official implementation of [Contextual Linear Activation Steering](https://arxiv.org/abs/2604.24693) (CLAS), an activation steering method that performs context-dependent steering.
 
 <details>
 <summary>What is CLAS?</summary>
@@ -11,7 +11,7 @@ This repo is the official implementation of Contextual Linear Activation Steerin
 
 Compared to prior activation steering methods, CLAS offers several practical benefits:
 
-- No grid search to tune coefficients
+- No grid search for coefficient tuning
 - Context-dependent steering coefficients
 - Works with any existing steering vectors (e.g., probes)
 - Supports steering multiple directions simultaneously
@@ -49,3 +49,21 @@ Generate steered model completions (results written to `coefficients` by default
 ### Evaluation
     python 05_judge.py
 Evaluate the steered outputs (e.g., reasoning, persona, toxicity, etc.). Note: OpenAI API key is required to run this script.
+
+---
+
+## Citation
+
+If you find this work useful, please consider citing
+
+```bibtex
+@misc{hsu2026contextuallinearactivationsteering,
+    title={Contextual Linear Activation Steering of Language Models},
+    author={Brandon Hsu and Daniel Beaglehole and Adityanarayanan Radhakrishnan and Mikhail Belkin},
+    year={2026},
+    eprint={2604.24693},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2604.24693},
+}
+```
